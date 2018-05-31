@@ -1,1 +1,2 @@
-hello git, how are you
+hello git, 
+my sample repo for git-it challanges
